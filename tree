@@ -1,0 +1,10 @@
+def __init__(self,data):
+    self .data=data
+    self .left_node = none
+    self .right_node= none
+def insert(root,value):
+    if(root is none):
+        return node(value)
+    else:
+        return
+        
